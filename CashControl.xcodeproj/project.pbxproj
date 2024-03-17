@@ -14,6 +14,22 @@
 		12AFBB842BA675DD00242EA3 /* CashControlTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12AFBB832BA675DD00242EA3 /* CashControlTests.swift */; };
 		12AFBB8E2BA675DD00242EA3 /* CashControlUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12AFBB8D2BA675DD00242EA3 /* CashControlUITests.swift */; };
 		12AFBB902BA675DD00242EA3 /* CashControlUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12AFBB8F2BA675DD00242EA3 /* CashControlUITestsLaunchTests.swift */; };
+		12AFBBA32BA68DB600242EA3 /* SideMenuView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12AFBBA22BA68DB600242EA3 /* SideMenuView.swift */; };
+		12AFBBA52BA69F1300242EA3 /* SideMenuHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12AFBBA42BA69F1300242EA3 /* SideMenuHeaderView.swift */; };
+		12AFBBA82BA7321D00242EA3 /* SideMenuRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12AFBBA72BA7321D00242EA3 /* SideMenuRowView.swift */; };
+		12AFBBAA2BA734C100242EA3 /* SideMenuOptionModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12AFBBA92BA734C100242EA3 /* SideMenuOptionModel.swift */; };
+		12AFBBAD2BA73E1400242EA3 /* HapticsManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12AFBBAC2BA73E1400242EA3 /* HapticsManager.swift */; };
+		12AFBBB52BA7479700242EA3 /* TransactionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12AFBBB42BA7479700242EA3 /* TransactionsView.swift */; };
+		12AFBBB92BA748D200242EA3 /* BudgetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12AFBBB82BA748D200242EA3 /* BudgetView.swift */; };
+		12AFBBBB2BA748FF00242EA3 /* InvestmentsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12AFBBBA2BA748FF00242EA3 /* InvestmentsView.swift */; };
+		12AFBBBD2BA752DF00242EA3 /* LockView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12AFBBBC2BA752DF00242EA3 /* LockView.swift */; };
+		12C81C5C2BA759F200D117A1 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12C81C5B2BA759F200D117A1 /* ProfileView.swift */; };
+		12C81C5E2BA75A0000D117A1 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12C81C5D2BA75A0000D117A1 /* SettingsView.swift */; };
+		12C81C602BA75A1000D117A1 /* ChartsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12C81C5F2BA75A1000D117A1 /* ChartsView.swift */; };
+		12C81C622BA75A1C00D117A1 /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12C81C612BA75A1C00D117A1 /* SearchView.swift */; };
+		12C81C642BA75A2C00D117A1 /* HelpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12C81C632BA75A2C00D117A1 /* HelpView.swift */; };
+		12C81C662BA75A4500D117A1 /* PrivacyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12C81C652BA75A4500D117A1 /* PrivacyView.swift */; };
+		12C81C682BA763E700D117A1 /* AboutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12C81C672BA763E700D117A1 /* AboutView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +61,22 @@
 		12AFBB892BA675DD00242EA3 /* CashControlUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CashControlUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		12AFBB8D2BA675DD00242EA3 /* CashControlUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CashControlUITests.swift; sourceTree = "<group>"; };
 		12AFBB8F2BA675DD00242EA3 /* CashControlUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CashControlUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		12AFBBA22BA68DB600242EA3 /* SideMenuView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideMenuView.swift; sourceTree = "<group>"; };
+		12AFBBA42BA69F1300242EA3 /* SideMenuHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideMenuHeaderView.swift; sourceTree = "<group>"; };
+		12AFBBA72BA7321D00242EA3 /* SideMenuRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideMenuRowView.swift; sourceTree = "<group>"; };
+		12AFBBA92BA734C100242EA3 /* SideMenuOptionModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideMenuOptionModel.swift; sourceTree = "<group>"; };
+		12AFBBAC2BA73E1400242EA3 /* HapticsManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HapticsManager.swift; sourceTree = "<group>"; };
+		12AFBBB42BA7479700242EA3 /* TransactionsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransactionsView.swift; sourceTree = "<group>"; };
+		12AFBBB82BA748D200242EA3 /* BudgetView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BudgetView.swift; sourceTree = "<group>"; };
+		12AFBBBA2BA748FF00242EA3 /* InvestmentsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InvestmentsView.swift; sourceTree = "<group>"; };
+		12AFBBBC2BA752DF00242EA3 /* LockView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LockView.swift; sourceTree = "<group>"; };
+		12C81C5B2BA759F200D117A1 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		12C81C5D2BA75A0000D117A1 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
+		12C81C5F2BA75A1000D117A1 /* ChartsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChartsView.swift; sourceTree = "<group>"; };
+		12C81C612BA75A1C00D117A1 /* SearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchView.swift; sourceTree = "<group>"; };
+		12C81C632BA75A2C00D117A1 /* HelpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HelpView.swift; sourceTree = "<group>"; };
+		12C81C652BA75A4500D117A1 /* PrivacyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrivacyView.swift; sourceTree = "<group>"; };
+		12C81C672BA763E700D117A1 /* AboutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,7 +128,9 @@
 			isa = PBXGroup;
 			children = (
 				12AFBB712BA675DB00242EA3 /* CashControlApp.swift */,
-				12AFBB732BA675DB00242EA3 /* ContentView.swift */,
+				12AFBBAB2BA73DFE00242EA3 /* Support */,
+				12AFBB9C2BA6761700242EA3 /* Models */,
+				12AFBB9D2BA6762300242EA3 /* Views */,
 				12AFBB752BA675DD00242EA3 /* Assets.xcassets */,
 				12AFBB772BA675DD00242EA3 /* CashControl.entitlements */,
 				12AFBB782BA675DD00242EA3 /* Preview Content */,
@@ -127,6 +161,52 @@
 				12AFBB8F2BA675DD00242EA3 /* CashControlUITestsLaunchTests.swift */,
 			);
 			path = CashControlUITests;
+			sourceTree = "<group>";
+		};
+		12AFBB9C2BA6761700242EA3 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				12AFBBA92BA734C100242EA3 /* SideMenuOptionModel.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		12AFBB9D2BA6762300242EA3 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				12AFBBA62BA6A3E100242EA3 /* SideMenu */,
+				12AFBBB42BA7479700242EA3 /* TransactionsView.swift */,
+				12C81C652BA75A4500D117A1 /* PrivacyView.swift */,
+				12AFBBB82BA748D200242EA3 /* BudgetView.swift */,
+				12AFBBBA2BA748FF00242EA3 /* InvestmentsView.swift */,
+				12AFBBBC2BA752DF00242EA3 /* LockView.swift */,
+				12C81C5B2BA759F200D117A1 /* ProfileView.swift */,
+				12C81C5D2BA75A0000D117A1 /* SettingsView.swift */,
+				12C81C5F2BA75A1000D117A1 /* ChartsView.swift */,
+				12C81C612BA75A1C00D117A1 /* SearchView.swift */,
+				12C81C632BA75A2C00D117A1 /* HelpView.swift */,
+				12C81C672BA763E700D117A1 /* AboutView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		12AFBBA62BA6A3E100242EA3 /* SideMenu */ = {
+			isa = PBXGroup;
+			children = (
+				12AFBBA42BA69F1300242EA3 /* SideMenuHeaderView.swift */,
+				12AFBBA22BA68DB600242EA3 /* SideMenuView.swift */,
+				12AFBB732BA675DB00242EA3 /* ContentView.swift */,
+				12AFBBA72BA7321D00242EA3 /* SideMenuRowView.swift */,
+			);
+			path = SideMenu;
+			sourceTree = "<group>";
+		};
+		12AFBBAB2BA73DFE00242EA3 /* Support */ = {
+			isa = PBXGroup;
+			children = (
+				12AFBBAC2BA73E1400242EA3 /* HapticsManager.swift */,
+			);
+			path = Support;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -259,8 +339,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				12AFBBB92BA748D200242EA3 /* BudgetView.swift in Sources */,
+				12AFBBA32BA68DB600242EA3 /* SideMenuView.swift in Sources */,
+				12AFBBA52BA69F1300242EA3 /* SideMenuHeaderView.swift in Sources */,
+				12AFBBAD2BA73E1400242EA3 /* HapticsManager.swift in Sources */,
+				12C81C682BA763E700D117A1 /* AboutView.swift in Sources */,
+				12C81C5C2BA759F200D117A1 /* ProfileView.swift in Sources */,
+				12AFBBB52BA7479700242EA3 /* TransactionsView.swift in Sources */,
+				12AFBBBD2BA752DF00242EA3 /* LockView.swift in Sources */,
+				12C81C662BA75A4500D117A1 /* PrivacyView.swift in Sources */,
+				12C81C602BA75A1000D117A1 /* ChartsView.swift in Sources */,
+				12AFBBAA2BA734C100242EA3 /* SideMenuOptionModel.swift in Sources */,
+				12AFBBBB2BA748FF00242EA3 /* InvestmentsView.swift in Sources */,
+				12C81C622BA75A1C00D117A1 /* SearchView.swift in Sources */,
+				12AFBBA82BA7321D00242EA3 /* SideMenuRowView.swift in Sources */,
 				12AFBB742BA675DB00242EA3 /* ContentView.swift in Sources */,
+				12C81C642BA75A2C00D117A1 /* HelpView.swift in Sources */,
 				12AFBB722BA675DB00242EA3 /* CashControlApp.swift in Sources */,
+				12C81C5E2BA75A0000D117A1 /* SettingsView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
